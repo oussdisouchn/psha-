@@ -219,4 +219,4 @@ public class Clear implements Command {
 
 
 
-client.login(process.env.TOKEN);
+client.login(NTc4OTg5NjA0MjQ2NTE5ODEw.XN7oHg.UBszsKMQhUE3KTumLN6yZa94jLs);
